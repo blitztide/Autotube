@@ -1,0 +1,11 @@
+Youtube RSS feed location:
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xuWwQ
+
+Finding Channel ID:
+Within source code for page
+
+<span class="channel-header
+data-channel-external-id
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xuWwQ
