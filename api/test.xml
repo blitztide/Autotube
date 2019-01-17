@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<database>
+<channel>CHANNEL 1
+<description> Cats </description>
+<image>images/cat.jpg</image>
+</channel>
+<channel>CHANNEL 2
+<description> Dogs </description>
+<image>images/dog.jpg</image>
+</channel>
+</database>

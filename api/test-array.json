@@ -1,0 +1,14 @@
+[
+	{
+		"header" : "item 1",
+		"image" : "./image/zuck.jpg",
+		"body" : "Description",
+		"footer" : "footer"
+	},
+	{
+		"header" : "item 2",
+		"image" : "./image/goldfishgun.jpeg",
+		"body" : "Description",
+		"footer" : "footer"
+	}
+]

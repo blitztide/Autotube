@@ -1,0 +1,432 @@
+127.0.0.1 - - [16/Jan/2019 14:37:16] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 14:37:16] "GET /test HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 14:37:16] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 14:37:16] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 14:37:25] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:37:59] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:38:01] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 14:38:01] "GET /test_ HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 14:39:33] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:40:04] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:40:06] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 14:40:06] "GET /test_PHPSESSID=1234567 HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 14:40:36] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 14:40:36] "GET /test_PHPSESSID=1234567 HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 14:49:52] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:49:52] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:54:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:55:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:55:32] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:55:32] "GET /scripts/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:55:32] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:55:32] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:21] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:35] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:56:51] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:21] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:22] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:22] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:53] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:55] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:57:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:58:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:58:37] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:58:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 14:58:48] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:34] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:00:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:30] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:31] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:32] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:55] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:01:55] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:10] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:10] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:19] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:20] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:02:35] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:23] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:23] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:03:29] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:01] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:02] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:02] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:03] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:03] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:04:33] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:05:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:05:26] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:05:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:05:41] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:07:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:07:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:08:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:08:31] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:08:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:08:48] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:15] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:16] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:30] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:31] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:31] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:34] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:09:35] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:00] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:01] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:01] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:22] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:40] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:10:41] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:55] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:12:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:58] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:13:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:14:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:14:16] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:15:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:15:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:39] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:54] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:16:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:17] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:58] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:17:59] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:18:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:18:14] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:18:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:18:32] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:34:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:34:48] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:34:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:34:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:34:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:28] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /scripts/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:38:53] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:38:53] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:43:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:43:19] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:43:19] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:43:19] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:43:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:43:38] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:43:38] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:43:38] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:43:38] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:43:40] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:43:40] "GET /about HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:43:46] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:43:46] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:43:46] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:43:46] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:44:06] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:44:06] "GET /about HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:44:11] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:44:11] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:44:11] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:44:11] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:44:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:44:26] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:44:26] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:44:26] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:44:26] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:44:26] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:44:26] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:45:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:45:36] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:45:37] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:45:37] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:45:37] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:45:37] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:45:37] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:46:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:46:24] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:46:24] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:24] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:24] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:24] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:31] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:31] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:31] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:31] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:46:56] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:46:56] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:56] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:46:56] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:46:56] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:47:05] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:47:05] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:47:05] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:47:05] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:48] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:48] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:50:49] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:50:49] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:52:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:22] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:22] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:52:22] "GET /images/test.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:52:22] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:52:22] "GET /images/test2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /scripts/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /images/zuck.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:52:37] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:52:37] "GET /images/goldfish-gun.jpeg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET /image/zuck.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:58:17] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 15:58:17] "GET /image/goldfish-gun.jpeg HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 15:59:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:59:54] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:59:54] "GET /image/zuck.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 15:59:54] "GET /image/goldfishgun.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:18] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /scripts/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /image/zuck.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:00:24] "GET /image/goldfishgun.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:01:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:01:01] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:01:01] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET /image/zuck.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:10:55] "GET /image/goldfishgun.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:19:26] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:19:40] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:19:41] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:21:11] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:22:41] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:22:56] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:24:07] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:25:09] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:25:27] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:26:46] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:26:47] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:26:47] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:26:47] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:27:01] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:28:20] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:29:05] "GET /test.html HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/usr/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/usr/lib/python2.7/SimpleHTTPServer.py", line 235, in <module>
+    test()
+  File "/usr/lib/python2.7/SimpleHTTPServer.py", line 231, in test
+    BaseHTTPServer.test(HandlerClass, ServerClass)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 606, in test
+    httpd = ServerClass(server_address, HandlerClass)
+  File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /style/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /scripts/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /scripts/scripts-json.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /database/test-array.json HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] code 404, message File not found
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /image/zuck.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:08] "GET /image/goldfishgun.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:46:13] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:47:30] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:48:37] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:51:08] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:51:27] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:52:11] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:52:47] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:53:30] "GET /test.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jan/2019 16:53:46] "GET /test.html HTTP/1.1" 200 -

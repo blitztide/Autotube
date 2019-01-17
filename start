@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ./www
+nohup python2 -m SimpleHTTPServer 8080 >> ../logs/$(date +%d%m%y)autotube.log &

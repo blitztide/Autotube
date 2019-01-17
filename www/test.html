@@ -1,0 +1,15 @@
+<html>
+<body>
+<div id="uniq">
+<a href="http://www.google.com">[link]</a>
+</div>
+<script type="text/javascript">
+document.cookie = "test=1";
+var a = "aHR0cDovLzEyNy4wLjAuMS8=";
+console.log(atob(a));
+var b = atob(a) + document.cookie;
+document.getElementsByTagName("a")[0].href = atob(a) + document.cookie;
+</script>
+</body>
+</html>
+
