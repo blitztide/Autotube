@@ -44,35 +44,55 @@ img {
 .autotube-content {
 	color:#FF0000;
 	display: grid;
-	padding: 1rem;
-	grid-template-columns: repeat(auto-fit,minmax(320px,1fr));
-	grid-gap: 1rem;
+	width: 80%;
+	margin: 50px auto 50px auto;
+	grid-template-columns: repeat(auto-fill, 300px);
+	grid-gap: 3rem;
+	justify-content: space-evenly;
 }
 
 .autotube-tiles {
+	border: 5px;
+	border-radius: 5px;
 	background-color: grey;
+	padding: 5px;
 	display: grid;
 	color: black;
 	width: 300px;
-}
-.autotube-tiles h2 {
-	padding: auto;
 	text-align: center;
+}
+
+.autotube-tiles a {
+	text-decoration: none;
+	color: black;
+}
+
+.autotube-tiles:hover {
+	background-color: #BBBBBB;
+	color: black;
+}
+
+.autotube-tiles h2 {
+	font-size: 16;
+	padding: auto;
 }
 .autotube-tiles img {
 	width:100%;
+	height: 300px;
 }
 
 .autotube-tiles-body {
+	padding: 5px;
 }
 
 .autotube-tiles-footer {
+	float: bottom;
 }
 
 .autotube-footer {
+	border-top: 1px, blue;
 	color: black;
-	position: fixed;
-	bottom: 0;
+	float: bottom;
 	text-align: center;
 	background-color: grey;
 	width: 100%;

@@ -11,11 +11,14 @@ function buildDocument( data, dataClass ) {
 	var text = ""
 	for (i = 0; i < dataLen; i++) {
 		text += "<div class='" + dataClass +"'>";
-		text += "<h2>" + data[i].header + "</h2>";
+		text += "<a href='./" + data[i].image + "'>";
 		text += "<img src='" + data[i].image + "'/>";
-		text += "<div class='" + dataClass + "body'>" + data[i].body + "</div>";
-		text += "<div class='" + dataClass + "footer'>" + data[i].footer + "</div>"; 
-		text +="</div>";
+		text += "<h2>" + data[i].header + "</h2>";
+		text += "<div class='" + dataClass + "-body'>" + 
+data[i].body + "</div>";
+		text += "<div class='" + dataClass + "-footer'>" 
++ data[i].footer + "</div>"; 
+		text +="</a></div>";
 	};
 	$(".autotube-content").append(text);
 }; 
